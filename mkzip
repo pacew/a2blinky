@@ -1,0 +1,13 @@
+rm -f a2blinky.zip
+zip a2blinky.zip  \
+    a2blinky-B_Cu.gbr \
+    a2blinky-B_Mask.gbr \
+    a2blinky-B_Paste.gbr \
+    a2blinky-B_Silkscreen.gbr \
+    a2blinky-Edge_Cuts.gbr \
+    a2blinky-F_Cu.gbr \
+    a2blinky-F_Mask.gbr \
+    a2blinky-F_Paste.gbr \
+    a2blinky-F_Silkscreen.gbr \
+    a2blinky-NPTH.drl \
+    a2blinky-PTH.drl
