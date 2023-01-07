@@ -1,3 +1,7 @@
 sudo add-apt-repository --yes ppa:kicad/kicad-6.0-releases
 sudo apt update
 sudo apt install --install-recommends kicad
+
+
+./sources.list.d/kicad-ubuntu-kicad-6_0-releases-jammy.list:deb https://ppa.laun
+chpadcontent.net/kicad/kicad-6.0-releases/ubuntu/ jammy main
